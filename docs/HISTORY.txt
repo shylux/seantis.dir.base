@@ -5,7 +5,8 @@ Changelog
 1.8.2 (unreleased)
 ------------------
 
-Nothing yet.
+- Move directories specific styles from plonetheme.onegov to this package.
+  [lknoepfel]
 
 1.8.1 (2015-09-29)
 ------------------
